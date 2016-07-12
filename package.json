@@ -1,0 +1,23 @@
+{
+  "name": "watcher",
+  "version": "1.0.0",
+  "description": "simple file watcher",
+  "main": "main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darzu/watcher.git"
+  },
+  "keywords": [
+    "files",
+    "watch"
+  ],
+  "author": "darzu <daryl.zuniga@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darzu/watcher/issues"
+  },
+  "homepage": "https://github.com/Darzu/watcher#readme"
+}
