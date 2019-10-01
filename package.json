@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Darzu/watcher/issues"
   },
-  "homepage": "https://github.com/Darzu/watcher#readme"
+  "homepage": "https://github.com/Darzu/watcher#readme",
+  "bin": {
+    "watcher": "./main.js"
+  }
 }

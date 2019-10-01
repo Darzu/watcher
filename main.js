@@ -7,5 +7,5 @@ var watcher = chokidar.watch(p, { persistent: true });
 var log = console.log.bind(console);
 
 watcher
-  .on('add', log)
-  .on('change', log)
+  .on('add', path => log(path))
+  .on('change', path => log(path))
